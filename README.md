@@ -1,2 +1,2 @@
 # SkyTrackrBot
-A discord bot that provides flight tracking and aviation data.
+A discord bot for flight tracking and providing aviation data.
