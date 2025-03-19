@@ -17,7 +17,7 @@ module.exports = {
         const flightNumber = interaction.options.getString('number').toUpperCase();
 
         try {
-            // aviationstack is free but you get only 100 api requests a month, you might want to change this to use a different api if you want
+            // aviationstack is free but requires sign up and you get only 100 api requests a month, you might want to change this to use a different api if you want
             const response = await axios.get(`http://api.aviationstack.com/v1/flights`, {
                 params: {
                     access_key: API_KEY,
