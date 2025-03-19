@@ -3,7 +3,7 @@
 SkyTrackr is a Discord bot built with discord.js v14 that tracks flights in real-time using free APIs.
 
 ## Features  
-- Real-time fligh tracking
+- Real-time flight tracking
 - Airport information
 - Plane information (WIP) <br />
 
