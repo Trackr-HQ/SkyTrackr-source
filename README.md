@@ -56,7 +56,7 @@ npm install
 - Copy the generated invite link and paste it into your browser.  
 - Select your server and authorize the bot.  
 
-Now when you run your bot you should be able to use all the commands.
-
+Now when you run your bot you should be able to use all the current commands.
+For help, contact me on discord: @
 ## License
 GNU GPL v3. See [LICENSE](LICENSE).
