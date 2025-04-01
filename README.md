@@ -15,7 +15,7 @@ and more coming soon!
 ### 1. Clone the repo:
    
    ```bash
-   git clone https://github.com/Sky-Trackr/SkyTrackr-source.git
+   git clone https://github.com/Trackr-HQ/SkyTrackr-source.git
    
    cd SkyTrackr-source
 ```
